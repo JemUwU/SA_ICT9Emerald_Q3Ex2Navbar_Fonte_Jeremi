@@ -1,0 +1,9 @@
+body {
+	background-repeat: no-repeat;
+	background-image: url('LEGO.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+}
+img {
+	width: 50px;
+}
